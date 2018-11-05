@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import ListContacts from './ListContacts'
 
 class App extends Component {
   state = {
-    contacts : [
+    contacts: [
       {
         "id": "ryan",
         "name": "Ryan Florence",
